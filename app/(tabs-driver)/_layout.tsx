@@ -8,7 +8,7 @@ const iconMap: Record<string, keyof typeof MaterialCommunityIcons.glyphMap> = {
   perfil: 'account',
 };
 
-export default function TabLayout() {
+export default function DriverTabLayout() {
   return (
     <Tabs
       screenOptions={{
